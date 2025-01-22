@@ -1,7 +1,5 @@
 # PSG
-Constructing Page Semantic Graphs Using LLMs to Facilitate Analyzing and Understanding Mobile Apps
-=======
-Constructing Page Semantic Graphs Using LLMs to Facilitate Understanding Mobile Apps. Our code consists of the following three main parts.
+
 
 ## Building PSG
 The construction of PSG consists of three phases:
